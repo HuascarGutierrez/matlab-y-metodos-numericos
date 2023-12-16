@@ -1,0 +1,27 @@
+C:\Users\huasc\Documents\Visual Studio 2012\Projects\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe.config
+C:\Users\huasc\Documents\Visual Studio 2012\Projects\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe
+C:\Users\huasc\Documents\Visual Studio 2012\Projects\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.pdb
+C:\Users\huasc\Documents\Visual Studio 2012\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csprojResolveAssemblyReference.cache
+C:\Users\huasc\Documents\Visual Studio 2012\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form1.resources
+C:\Users\huasc\Documents\Visual Studio 2012\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Properties.Resources.resources
+C:\Users\huasc\Documents\Visual Studio 2012\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.GenerateResource.Cache
+C:\Users\huasc\Documents\Visual Studio 2012\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.exe
+C:\Users\huasc\Documents\Visual Studio 2012\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.pdb
+C:\Users\huasc\Desktop\Huascar Gutierrez Castro\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe.config
+C:\Users\huasc\Desktop\Huascar Gutierrez Castro\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.exe
+C:\Users\huasc\Desktop\Huascar Gutierrez Castro\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.pdb
+C:\Users\huasc\Desktop\Huascar Gutierrez Castro\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe
+C:\Users\huasc\Desktop\Huascar Gutierrez Castro\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.pdb
+C:\Users\huasc\Desktop\Huascar Gutierrez Castro\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csprojResolveAssemblyReference.cache
+C:\Users\huasc\Desktop\Huascar Gutierrez Castro\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form1.resources
+C:\Users\huasc\Desktop\Huascar Gutierrez Castro\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Properties.Resources.resources
+C:\Users\huasc\Desktop\Huascar Gutierrez Castro\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.GenerateResource.Cache
+C:\Users\huasc\Desktop\Huascar Gutierrez Castro\Huascar Gutierrez Castro\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe.config
+C:\Users\huasc\Desktop\Huascar Gutierrez Castro\Huascar Gutierrez Castro\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.exe
+C:\Users\huasc\Desktop\Huascar Gutierrez Castro\Huascar Gutierrez Castro\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.pdb
+C:\Users\huasc\Desktop\Huascar Gutierrez Castro\Huascar Gutierrez Castro\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe
+C:\Users\huasc\Desktop\Huascar Gutierrez Castro\Huascar Gutierrez Castro\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.pdb
+C:\Users\huasc\Desktop\Huascar Gutierrez Castro\Huascar Gutierrez Castro\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csprojResolveAssemblyReference.cache
+C:\Users\huasc\Desktop\Huascar Gutierrez Castro\Huascar Gutierrez Castro\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form1.resources
+C:\Users\huasc\Desktop\Huascar Gutierrez Castro\Huascar Gutierrez Castro\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Properties.Resources.resources
+C:\Users\huasc\Desktop\Huascar Gutierrez Castro\Huascar Gutierrez Castro\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.GenerateResource.Cache
